@@ -603,7 +603,7 @@
 														06/28													</span>
 												</div>
 												<div class="credit-font credit-author">
-													Nora Thompson 												</div>
+													Amanda Anderson												</div>
 											</div>
 											<div class="pull-right">
 												<div class="mk-icon-visa"></div>
@@ -759,7 +759,7 @@
       <div class="modal-content">
         <div class="modal-header text-center">
           <h5 class="modal-title">
-          TIMI FX         </h5>
+          Amanda Anderson         </h5>
         </div>
         <div class="modal-body">
         <div class="action-sheet-content text-center">
